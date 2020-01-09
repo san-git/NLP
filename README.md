@@ -1,6 +1,7 @@
 # NLP
 Pipeline for NLP
-#Text Processing
+
+# Text Processing
 
 Cleaning
 
@@ -16,7 +17,7 @@ Named Entity Recognition
 
 Stemming and Lemmatization
 
-#Feature Extraction
+# Feature Extraction
 
 Bag of Words
 
@@ -24,5 +25,5 @@ TF-IDF
 
 Word Embeddings
 
-#Modeling
+# Modeling
 
