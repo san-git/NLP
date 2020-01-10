@@ -3,6 +3,8 @@ Pipeline for NLP
 
 # Text Processing
 
+Following are the main steps in Text Processing
+
 Cleaning
 
 Normalization
