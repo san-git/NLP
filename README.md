@@ -5,19 +5,13 @@ Pipeline for NLP
 
 Following are the main steps in Text Processing
 
-Cleaning
-
-Normalization
-
-Tokenization
-
-Stop Word Removal
+Cleaning (Normalization -> Tokenization -> Stop Word Removal -> Stemming and Lemmatization)
 
 Part of Speech Tagging
 
 Named Entity Recognition
 
-Stemming and Lemmatization
+
 
 # Feature Extraction
 
